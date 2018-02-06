@@ -1,0 +1,3 @@
+*.o
+/Enclave_u.h
+/Enclave_u.c

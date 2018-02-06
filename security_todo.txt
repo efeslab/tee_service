@@ -1,0 +1,4 @@
+1. Make sure there is no buffer overflow when reading message from socket. Relevant function: NetworkManager::GetNextMessage. Max total size is: MSG_BUFFER_SIZE
+2. Whe connecting to IAS server, test what happens if connecting to an https server with bad certificate.
+Connecting to a fake IAS WILL COMPROMISE THE SECURITY.
+3

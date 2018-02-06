@@ -1,0 +1,5 @@
+*.o
+*.pyc
+/test_performance
+*.so.backup
+*.so.old
